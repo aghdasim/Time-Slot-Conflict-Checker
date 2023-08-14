@@ -9,6 +9,8 @@ int main() {
 
     int hs[4], he[4], ms[4], me[4];
 
+    /// This Program just check four time slots
+
 
     string timeRange[4];
 
