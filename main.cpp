@@ -5,6 +5,8 @@ using namespace std;
 
 int main() {
 
+    /// Counters of loops
+
     int i = 0, j = 0;
 
     int hs[4], he[4], ms[4], me[4];
